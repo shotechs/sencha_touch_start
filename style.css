@@ -1,0 +1,15 @@
+@charset "utf-8";
+			.shoimg {
+	margin-left: 20%;
+	margin-top: 10%;
+}
+	
+@media (min-width:500px ){
+
+.shoimg {
+	margin-left: 40%;
+	margin-top: 10%;
+}
+	
+}
+
